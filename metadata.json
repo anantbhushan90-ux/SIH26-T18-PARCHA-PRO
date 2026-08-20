@@ -1,0 +1,6 @@
+{
+  "name": "Swastha Seva Setu",
+  "description": "Your Digital Bridge to Health - Mobile OTP authentication, 19+ Indian languages, Aadhaar & DigiLocker e-KYC patient profile, Doctor appointment booking by hospital & department, Doctor timing allotments control, and real-time live OPD queue tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
